@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/covid-vaccine-search/static/js/main.ce004037.chunk.js",
-    "main.js.map": "/covid-vaccine-search/static/js/main.ce004037.chunk.js.map",
+    "main.js": "/covid-vaccine-search/static/js/main.3f245631.chunk.js",
+    "main.js.map": "/covid-vaccine-search/static/js/main.3f245631.chunk.js.map",
     "runtime-main.js": "/covid-vaccine-search/static/js/runtime-main.8099ff76.js",
     "runtime-main.js.map": "/covid-vaccine-search/static/js/runtime-main.8099ff76.js.map",
     "static/js/2.fa3038ec.chunk.js": "/covid-vaccine-search/static/js/2.fa3038ec.chunk.js",
@@ -14,6 +14,6 @@
   "entrypoints": [
     "static/js/runtime-main.8099ff76.js",
     "static/js/2.fa3038ec.chunk.js",
-    "static/js/main.ce004037.chunk.js"
+    "static/js/main.3f245631.chunk.js"
   ]
 }
