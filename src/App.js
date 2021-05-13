@@ -47,6 +47,8 @@ class App extends React.Component {
       <div className="ui padded container">
         <SearchBar onSubmit={this.onSearchSubmit} />
         <h2>{text}</h2>
+        <br/>
+        <br/>
         <CityList citys={this.state.citys} />
       </div>
     );
