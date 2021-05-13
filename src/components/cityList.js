@@ -7,7 +7,7 @@ const CityList = ({ citys }) => {
   });
 
   return(
-    <div class="ui three column grid">
+    <div class="ui stackable three column grid">
      {cityLink}
     </div>
   );

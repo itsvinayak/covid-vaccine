@@ -40,7 +40,7 @@ class App extends React.Component {
       text = "Total hospitals found 0"
     }
     else{
-      text = "Total hospitals found in "  + this.state.citys[0].district_name +" " + String(this.state.citys.length)
+      text = "Total hospitals found in "  + this.state.citys[0].district_name +" are " + String(this.state.citys.length)
 
     }
     return (
