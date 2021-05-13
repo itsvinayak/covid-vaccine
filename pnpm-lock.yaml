@@ -5,6 +5,7 @@ specifiers:
   '@testing-library/jest-dom': ^5.12.0
   '@testing-library/react': ^11.2.6
   '@testing-library/user-event': ^12.8.3
+  cra-template-pwa: ^1.0.3
   gh-pages: ^3.1.0
   react: ^17.0.2
   react-dom: ^17.0.2
@@ -16,6 +17,7 @@ dependencies:
   '@testing-library/jest-dom': 5.12.0
   '@testing-library/react': 11.2.6_react-dom@17.0.2+react@17.0.2
   '@testing-library/user-event': 12.8.3
+  cra-template-pwa: 1.0.3
   react: 17.0.2
   react-dom: 17.0.2_react@17.0.2
   react-scripts: 4.0.3_react@17.0.2
@@ -3959,6 +3961,11 @@ packages:
       parse-json: 5.2.0
       path-type: 4.0.0
       yaml: 1.10.2
+    dev: false
+
+  /cra-template-pwa/1.0.3:
+    resolution: {integrity: sha512-YJeZb/gdymnkwzMJcSAy1mZyuTE1TaVD5rmhP1jyw2Lk2baKDSn4r1wCoWX+mSwhZZfVvxM4bOgJ8onCiIIYVg==}
+    engines: {node: '>=10'}
     dev: false
 
   /create-ecdh/4.0.4:

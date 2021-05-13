@@ -3,11 +3,11 @@ import CityCard from './cityCard';
 const CityList = ({ citys }) => {
   
   const cityLink = citys.map( (item) =>{
-    return <div class="column"> <CityCard city={item} /> </div>
+    return <div className="column"> <CityCard city={item} /> </div>
   });
 
   return(
-    <div class="ui stackable three column grid">
+    <div className="ui stackable three centered column grid">
      {cityLink}
     </div>
   );

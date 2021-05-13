@@ -18,7 +18,7 @@ class SearchBar extends React.Component {
       <div className="ui segment" style={{marginTop: 30  }}> 
         <form onSubmit={(e) => this.onFormSubmit(e)} className="ui form">
           <div className="field">
-            <div className="ui black ribbon label">Search pincode</div>
+            <div className="ui black ribbon label">Search District's pincode</div>
 
             <div className="ui input focus" style={{ marginTop: "10px" }}>
               <input
